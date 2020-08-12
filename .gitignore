@@ -1,3 +1,5 @@
 /.idea/*
 *.class
 src/main/java/com/flavcreations/flavjda/settings/SETTINGS.java
+.gradle/6.1.1/executionHistory/executionHistory.bin
+!/.idea/
