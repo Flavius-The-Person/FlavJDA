@@ -5,3 +5,5 @@ src/main/java/com/flavcreations/flavjda/settings/SETTINGS.java
 !/.idea/
 /.gradle/
 !/gradle/
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
