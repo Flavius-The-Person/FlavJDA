@@ -4,3 +4,6 @@ gradlew.bat
 build.gradle
 gradlew
 gradlew.bat
+target/classes/com/flavcreations/flavjda/FlavJDA.class
+target/classes/com/flavcreations/flavjda/listeners/ReadyListener.class
+target/classes/com/flavcreations/flavjda/settings/SETTINGS.class
