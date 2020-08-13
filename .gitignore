@@ -1,9 +1,0 @@
-/.idea/*
-*.class
-src/main/java/com/flavcreations/flavjda/settings/SETTINGS.java
-.gradle/6.1.1/executionHistory/executionHistory.bin
-!/.idea/
-/.gradle/
-!/gradle/
-gradle/wrapper/gradle-wrapper.jar
-gradle/wrapper/gradle-wrapper.properties
