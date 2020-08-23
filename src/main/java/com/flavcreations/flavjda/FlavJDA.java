@@ -172,11 +172,11 @@ public class FlavJDA extends ListenerAdapter
 		 */
 		else if (msg.equals("!website"))
 		{
-			channel.sendMessage("").queue();
+			channel.sendMessage("https://www.flavcreations.com/").queue();
 		}
 		else if (msg.equals("!twitch"))
 		{
-			channel.sendMessage("").queue();
+			channel.sendMessage("https://www.twitch.tv/flavcreations").queue();
 		}
 		else if (msg.equals("!github"))
 		{
@@ -192,7 +192,7 @@ public class FlavJDA extends ListenerAdapter
 		}
 		else if(msg.equals("!legions live"))
 		{
-			channel.sendMessage("").queue();
+			channel.sendMessage("Live Streaming Game coming soon!").queue();
 		}
 		
 		
