@@ -164,6 +164,44 @@ public class FlavJDA extends ListenerAdapter
 					)
 					.queue();
 		}
+		
+		/*
+		 * To Make:
+		 * website, twitch, github, patreon, stream warriors engine, legions live,
+		 * maybe add these to an array for easier management?
+		 */
+		else if (msg.equals("!website"))
+		{
+			channel.sendMessage("").queue();
+		}
+		else if (msg.equals("!twitch"))
+		{
+			channel.sendMessage("").queue();
+		}
+		else if (msg.equals("!github"))
+		{
+			channel.sendMessage("").queue();
+		}
+		else if(msg.equals("!patreon"))
+		{
+			channel.sendMessage("").queue();
+		}
+		else if(msg.equals("!stream warriors"))
+		{
+			channel.sendMessage("").queue();
+		}
+		else if(msg.equals("!legions live"))
+		{
+			channel.sendMessage("").queue();
+		}
+		
+		
+		/*
+		*
+		* admin stuff after here maybe?
+		*
+		*/
+		
 		else if (msg.startsWith("!kick"))   //Note, I used "startsWith, not equals.
 		{
 			//This is an admin command. That means that it requires specific permissions to use it, in this case
